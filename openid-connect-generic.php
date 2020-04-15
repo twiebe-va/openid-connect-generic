@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: OpenID Connect Generic
-Plugin URI: https://github.com/daggerhart/openid-connect-generic
+Plugin Name: Vendasta - OpenID Connect Generic
+Plugin URI: https://github.com/twiebe-va/openid-connect-generic
 Description:  Connect to an OpenID Connect generic client using Authorization Code Flow
 Version: 3.5.1
 Author: daggerhart
